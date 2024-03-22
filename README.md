@@ -12,3 +12,7 @@ Monitor for CO2
  * 0-10 V output
  * 1 wire interface
 ![board3d](pictures/co2control.jpg)
+
+## Issues
+ * RX/TX to SCD30 need to be switched
+ * doesn't connect via USB
