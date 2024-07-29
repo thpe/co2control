@@ -16,5 +16,5 @@ Monitor for CO2
 ## Issues
  * RX/TX to SCD30 need to be switched
  * doesn't connect via USB
-  * USB C symbol should have been a receptable, not plug
-  * Thus, B7/B6 are not connected to D+/-
+   * USB C symbol should have been a receptable, not plug
+   * Thus, B7/B6 are not connected to D+/-
