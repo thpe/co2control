@@ -19,6 +19,14 @@ The following issues with the current versions are known:
    * USB C symbol should have been a receptable, not plug
    * Thus, B7/B6 are not connected to D+/-
 
+## Connection
+XLR male, pinout
+ * 1. GND, Blue
+ * 2. +24V, Blue/White
+ * 3. 485A, Orange
+ * 4. 485B, Orange/White
+
+
 ## Firmware
 The [co2control-fw](https://github.com/thpe/co2control-fw) firmware samples the SCD-30 regulary and exposes the measurements via
 modbus.
